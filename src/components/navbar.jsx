@@ -11,7 +11,7 @@ const navbar = () => {
    <li className='hover:font-bold'>Home</li>
    <li className='hover:font-bold'>Contact</li>
    <li className='hover:font-bold'>Support</li>
-   <div className="github text-2xl"><a href="/"><i className="ri-github-fill"></i></a></div>
+   <div className="github text-2xl"><a href="https://github.com/24durgaprasad/password_manager_v1"><i className="ri-github-fill"></i></a></div>
 
 
   </ul>
